@@ -1,22 +1,26 @@
+# Makers Academy Precourse Week 3 - Learn to Program (Chris Pine) exercises
+
+These are my solutions to the exercises set in Chris Pine's "Learn to Program" book, completed as part of the precourse for Makers Academy.
+
 # Learn To Program
 
-##Ruby Week
+## Ruby Week
 
-Now that you have completed your interview and started the precourse, and need to continue developing your Ruby skills, we recommend that you continue with [Chris Pine's Learn To Program book 2nd Edition](https://drive.google.com/file/d/0Bz17qR4zZedib0M5RnRwWFl3MUk/view).  **Please complete chapters 9-14 before the end of week 3.** 
+Now that you have completed your interview and started the precourse, and need to continue developing your Ruby skills, we recommend that you continue with [Chris Pine's Learn To Program book 2nd Edition](https://drive.google.com/file/d/0Bz17qR4zZedib0M5RnRwWFl3MUk/view).  **Please complete chapters 9-14 before the end of week 3.**
 
-Please attempt every exercise, submitting the code to us using your newfound git and GitHub skils by forking [https://github.com/makersacademy/learn_to_program](https://github.com/makersacademy/learn_to_program), and submitting a pull request (Note that submitting a pull request will kick off some [Continuous Integration](https://github.com/makersacademy/pre_course/blob/master/pills/continuous_integration.md) <-- see link for more details). 
+Please attempt every exercise, submitting the code to us using your newfound git and GitHub skils by forking [https://github.com/makersacademy/learn_to_program](https://github.com/makersacademy/learn_to_program), and submitting a pull request (Note that submitting a pull request will kick off some [Continuous Integration](https://github.com/makersacademy/pre_course/blob/master/pills/continuous_integration.md) <-- see link for more details).
 
 Do not spend more than an hour on any individual exercise.  The solutions are included at the end of the book.  This week it is better that you cover all the chapters, and review the solutions for any exercises that you cannot complete in under an hour.  Please do not look at any individual solution until you have at least tried each individual exercise.
 
-###Setup Instructions
+### Setup Instructions
 
  - Fork the repo to your own
  - Push to your own fork (check the upstream)
  - Open a pull request straight away
  - Commit and push your code after *each* challenge so the CI server can check your work as you go along.
- - You must get a green tick at the end of the exercise from the CI to pass the week's challenge. 
+ - You must get a green tick at the end of the exercise from the CI to pass the week's challenge.
 
-###For submitting exercises from the Chris Pine Learn to Program Book
+### For submitting exercises from the Chris Pine Learn to Program Book
 
 If you would like to run the tests associated with each chapter or even individual exercies you can do so as follows.  We use the RSpec library to test the code is working properly.  The RSpec library is available as a Ruby 'gem', which you can install in your computer by typing the following at the command line prompt:
 
@@ -24,7 +28,7 @@ If you would like to run the tests associated with each chapter or even individu
 $ gem install rspec
 ```
 
-Once you have rspec installed as above, ensure that you have navigated to the root directory of this learn_to_program repo, e.g. 
+Once you have rspec installed as above, ensure that you have navigated to the root directory of this learn_to_program repo, e.g.
 
 ```sh
 cd /Users/JohnDoe/Projects/MakersAcademy/learn_to_program
@@ -61,4 +65,3 @@ rspec
 ```
 
 but be prepared for potentially quite a lot of output! :-)
-

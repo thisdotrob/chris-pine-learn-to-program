@@ -1,0 +1,1 @@
+puts "There are #{(8*365+2*366)*24*60} minutes in a decade."
